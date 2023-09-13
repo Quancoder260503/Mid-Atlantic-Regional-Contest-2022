@@ -50,5 +50,7 @@ int main(){
          cout<<min(p,q)+1<<" "<<max(p,q)-1<<endl;
          return 0;
      }
+     puts("-1");
+     return 0;
 }
    
